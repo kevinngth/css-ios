@@ -52,10 +52,10 @@ header {
 	border: 1px solid green;
 }
 
-/* .Icons:after{
+ .Icons:after{
 	content: "app";
 }
- */
+
 footer {
 	clear: both;
 	background-color: rgba(255, 255, 255, .5);
